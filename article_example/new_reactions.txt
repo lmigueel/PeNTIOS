@@ -1,2 +1,2 @@
 GPD1	dihydroxy-acetone-phosphate + NADH -> NAD + glycerol-3-phosphate	573.7696
-RHR2	glycerol-3-phospate + H2O -> glycerol + phospate	747.72408	
+RHR2	glycerol-3-phospate + H2O -> glycerol + phosphate	747.72408	
