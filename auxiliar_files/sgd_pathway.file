@@ -1,0 +1,187 @@
+1	acetate utilization	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=ACETATEUTIL2-PWY
+2	periplasmic NAD degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PERIPLASMA-NAD-DEGRADATION
+3	citrulline biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=CITRUL-BIO2-PWY
+4	superpathway of ubiquinone biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-862
+5	glycogen biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-4031
+6	carnitine shuttle	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-4
+7	dehydro-D-arabinono-1,4-lactone biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-6
+8	glutathione-glutaredoxin redox reactions	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=GLUT-REDOX2-PWY
+9	pyruvate dehydrogenase complex	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PYRUVDEHYD-PWY
+10	2-ketoglutarate dehydrogenase complex	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY-5084
+11	aerobic respiration, electron transport chain	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-188
+12	superpathway of glucose fermentation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=GLUCFERMEN-PWY&detail-level=2&detail-level=1
+13	butanediol biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-661
+14	superpathway of acetoin and butanediol biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-981
+15	acetoin biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-335
+16	acetoin biosynthesis II	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-440
+17	glycolysis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=GLYCOLYSIS
+18	non-oxidative branch of the pentose phosphate pathway	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=NONOXIPENT-PWY
+19	pentose phosphate pathway	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PENTOSE-P-PWY
+20	oxidative branch of the pentose phosphate pathway	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=OXIDATIVEPENT-PWY
+21	superpathway of TCA cycle and glyoxylate cycle	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-94
+22	glyoxylate cycle	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=GLYOXYLATE-BYPASS
+23	TCA cycle, aerobic respiration	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=TCA-EUK-PWY
+24	superpathway of threonine and methionine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=P4-PWY
+25	p-hydroxybenzoate biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-1109
+26	superpathway of methionine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-954
+27	superpathway of heme and siroheme biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-69
+28	tryptophan degradation via kynurenine	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=TRYPTOPHAN-DEGRADATION-1
+29	folate biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=FOLSYN-PWY
+30	superpathway of phenylalanine, tyrosine and tryptophan biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=COMPLETE-ARO-PWY
+31	superpathway of NAD biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-4158
+32	superpathway of glutamate biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-13
+33	threonine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=THRESYN-PWY
+34	superpathway of ergosterol biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=ERGOSTEROL-SYN-PWY
+35	superpathway of histidine, purine, and pyrimidine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PRPP-PWY
+36	superpathway of chorismate	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=ALL-CHORISMATE-PWY
+37	de novo NAD biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=NADSYN-PWY
+38	phospholipid biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PHOSLIPSYN2-PWY
+39	superpathway of phospholipid biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-2
+40	superpathway of leucine, isoleucine, and valine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=BRANCHED-CHAIN-AA-SYN-PWY
+41	superpathway of phosphatidic acid and phospholipid biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PHOS-PWY
+42	superpathway of polyamine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=POLYAMSYN-YEAST-PWY
+43	superpathway of methionine salvage pathway	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-351
+44	superpathway of threonine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-7
+45	superpathway of sulfur amino acid biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY-821
+46	superpathway of purine biosynthesis and salvage pathways	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-285
+47	superpathway of phosphatidate biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-6635
+48	superpathway of fatty acid biosynthesis, saturated	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-6336
+49	superpathway of fatty acid biosynthesis, saturated and unsaturated	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-5962
+50	superpathway of glutathione metabolism (truncated &gamma;-glutamyl cycle)	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-114
+51	allantoin degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=ALLANTOINDEG-PWY
+52	superpathway of serine and glycine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-261
+53	glutathione degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWYQT-4432
+54	fructose degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-0
+55	xylulose degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-5
+56	galactose degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=YEAST-GALACT-METAB-PWY
+57	trehalose degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=TREDEG-YEAST-PWY
+58	glycogen catabolism	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=GLYCOCAT-YEAST-PWY
+59	mannose degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-1743
+60	xylose metabolism	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-8
+61	sucrose degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=SUCUTIL-PWY
+62	ethanol degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-4300
+63	butanediol degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-246
+64	glycerol degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=AERO-GLYCEROL-CAT-PWY
+65	sphingolipid metabolism	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=SPHINGOLIPID-SYN-PWY
+66	phospholipids degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=LIPASYN-PWY-1
+67	fatty acid oxidation pathway	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=YEAST-FAO-PWY
+68	sulfate assimilation pathway	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY-781
+69	glycine cleavage complex	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=GLYCLEAV-PWY
+70	cysteine biosynthesis/homocysteine degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=HOMOCYSDEGR-PWY
+71	asparagine degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=ASPARAGINE-DEG2-PWY
+72	phenylalanine degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-4115
+73	threonine degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=THREOCAT2-PWY
+74	L-serine degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=SERDEG-PWY
+75	lysine degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=LYSDEGII-PWY
+76	proline utilization	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PROUT-PWY
+77	tyrosine degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-4108
+78	leucine degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-4112
+79	isoleucine degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-4109
+80	valine degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-4105
+81	alanine degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=ALANINE-DEG3-PWY
+82	arginine degradation (aerobic)	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=ARGDEG-YEAST-PWY
+83	arginine degradation (anaerobic)	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=ARG-PRO-PWY
+84	tryptophan degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-214
+85	glutamate degradation I	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=GLUDEG-I-PWY
+86	glutamate degradation IX	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY-3322
+87	4-aminobutyrate degradation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=YEAST-4AMINOBUTMETAB-PWY
+88	methylglyoxal catabolism	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY-901
+89	formaldehyde oxidation II (glutathione-dependent)	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY-1801
+90	CDP-diacylglycerol biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-103
+91	dolichyl phosphate D-mannose biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-123
+92	dolichyl glucosyl phosphate biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-1565
+93	glucose-6-phosphate biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-3827
+94	lipid-linked oligosaccharide biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=GLUCOSE-MANNOSYL-CHITO-DOLICHOL
+95	trehalose biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=TRESYN-PWY
+96	gluconeogenesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=GLUCONEO-PWY
+97	chitin biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-15
+98	chitosan biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-70
+99	salvage pathways of guanine, xanthine and their nucleosides	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-743
+100	salvage pathways of adenine, hypoxanthine and their nucleosides	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-2220
+101	de novo biosynthesis of pyrimidine ribonucleotides	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PYRIMID-RNTSYN-PWY
+102	de novo biosynthesis of pyrimidine deoxyribonucleotides	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=YEAST-DE-NOVO-PYRMID-DNT
+103	de novo biosynthesis of purine nucleotides	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=DENOVOPURINE3-PWY
+104	salvage pathways of pyrimidine deoxyribonucleotides	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=YEAST-SALV-PYRMID-DNTP
+105	salvage pathways of pyrimidine ribonucleotides	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=YEAST-RNT-SALV
+106	salvage pathways of purines and their nucleosides	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-1
+107	mevalonate pathway	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=IPPSYN-PWY
+108	glycerol biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-48
+109	triglyceride biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=TRIGLSYN-PWY
+110	ergosterol biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-31704
+111	phosphatidylinositol phosphate biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-242
+112	phosphatidate biosynthesis I (the dihydroxyacetone pathway)	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-6407
+113	phosphatidate biosynthesis II (the glycerol-3-phosphate pathway)	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-6499
+114	phosphatidylinositol biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-3
+115	phospholipid biosynthesis II (Kennedy pathway)	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-259
+116	phospholipid biosynthesis (Kennedy pathway)	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-450
+117	myristate biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY-5971-1
+118	fatty acid elongation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=FASYN-ELONG2-PWY
+119	very long chain fatty acid biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY-5080
+120	fatty acid biosynthesis, initial steps	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-10
+121	fatty acid biosynthesis (concise)	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY-5970
+122	palmitate biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-8514
+123	oleate biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-5268
+124	stearate biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-355
+125	palmitoleate biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-1801
+126	pantothenate and coenzyme A biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PANTOSYN2-PWY
+127	tetrapyrrole biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-50
+128	riboflavin, FMN and FAD biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=YEAST-RIBOSYN-PWY
+129	S-adenosylmethionine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=SAM-PWY
+130	hexaprenyl diphosphate biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=HEXPPSYN-PWY
+131	thioredoxin system	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=THIOREDOX-PWY
+132	glutathione biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=GLUTATHIONESYN-PWY
+133	glutathione-glutaredoxin system	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-592
+134	pyridoxal 5'-phosphate salvage pathway	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PLPSAL-PWY
+135	thiamine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-17
+136	folate interconversions	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-697
+137	folate polyglutamylation	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-20
+138	folate transformations	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY-2201
+139	folate biosynthesis II	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-45
+140	biotin biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=BIOTIN-SYNTHESIS-PWY
+141	siroheme biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY-5194
+142	heme biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=HEME-BIOSYNTHESIS-II
+143	ubiquinone biosynthesis from 4-hydroxybenzoate	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-19
+144	nicotinate riboside salvage pathway I	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-224
+145	nicotinamide riboside salvage pathway II	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-96
+146	NAD salvage pathway	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-4107
+147	nicotinamide riboside salvage pathway I	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-4106
+148	nicotinate riboside salvage pathway II	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-236
+149	p-aminobenzoate biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-1874
+150	chorismate biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=ARO-PWY
+151	spermine and methylthioadenosine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=ARGSPECAT-PWY
+152	UDP-N-acetylglucosamine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=UDPNAGSYN-YEAST-PWY
+153	putrescine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY-46
+154	spermidine and methylthioadenosine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=BSUBPOLYAMSYN-PWY
+155	inositol phosphate biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-402
+156	myo-inositol biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY-2301
+157	diphthamide biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY-6482
+158	aspartate biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=ASPBIO-PWY
+159	lysine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=LYSINE-AMINOAD-PWY
+160	homocysteine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY-5344
+161	homoserine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=HOMOSERSYN-PWY
+162	histidine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=HISTSYN-PWY
+163	serine biosynthesis from glyoxylate	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-230
+164	serine biosynthesis from 3-phosphoglycerate	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=SERSYN-PWY
+165	glycine biosynthesis from glyoxylate	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=GLYSYN-ALA-PWY
+166	glycine biosynthesis from serine	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=GLYSYN-PWY
+167	glycine biosynthesis from threonine	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=GLYSYN-THR-PWY
+168	glutamine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=GLNSYN-PWY
+169	asparagine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=ASPARAGINE-BIOSYNTHESIS
+170	arginine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=ARGSYNBSUB-PWY
+171	proline biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PROSYN-PWY
+172	alanine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=ALANINE-SYN2-PWY
+173	leucine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=LEUSYN-PWY
+174	methionine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-238
+175	methionine salvage pathway	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-64
+176	S-adenosylmethionine cycle	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY-5041
+177	beta-alanine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY-5760
+178	homocysteine and cysteine interconversion	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=HOMOCYS-CYS-CONVERT
+179	cysteine biosynthesis from homocysteine	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=CYSTEINE-SYN2-PWY
+180	glutamate biosynthesis from glutamine	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=GLUGLNSYN-PWY
+181	glutamate biosynthesis from ammonia	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=GLUNH3-PWY
+182	phenylalanine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-4153
+183	isoleucine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=ILEUSYN-PWY
+184	tyrosine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=PWY3O-4120
+185	tryptophan biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=TRPSYN-PWY
+186	valine biosynthesis	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=VALSYN-PWY
+187	removal of superoxide radicals	http://pathway.yeastgenome.org/YEAST/NEW-IMAGE?type=PATHWAY&object=DETOX1-PWY
